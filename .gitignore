@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Conda
+.conda/
+conda-meta/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Testing / coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Data and large artifacts
+braintreebank/
+data/
+datasets/
+checkpoints/
+models/
+outputs/
+results/
+wandb/
+mlruns/
+
+# PyTorch / training artifacts
+*.pt
+*.pth
+*.ckpt
+
+# Archives / downloads
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Local experiment scratch
+scratch/
+tmp/
