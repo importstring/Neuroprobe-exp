@@ -56,9 +56,6 @@ braintreebank/
 data/
 datasets/
 checkpoints/
-models/
-outputs/
-results/
 wandb/
 mlruns/
 
