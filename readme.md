@@ -1,4 +1,4 @@
-# neuroprobe-exp
+# Neuroprobe‑exp – Cross‑Subject iEEG Benchmark Experiments
 
 Experiments for the Neuroprobe benchmark, focused on cross-subject decoding with clean, reproducible training pipelines.
 
