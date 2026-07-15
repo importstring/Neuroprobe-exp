@@ -55,9 +55,7 @@ logs/
 braintreebank/
 data/
 datasets/
-checkpoints/
 wandb/
-mlruns/
 
 # PyTorch / training artifacts
 *.pt
