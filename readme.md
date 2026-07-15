@@ -1,8 +1,6 @@
 # Neuroprobe‑exp – Cross‑Subject iEEG Benchmark Experiments
 
-Experiments for the Neuroprobe benchmark, focused on cross-subject decoding with clean, reproducible training pipelines.
-
-This repository is the working area for trying models, running baselines, and testing ideas such as learnable electrode embeddings against the official Neuroprobe benchmark and splits. Neuroprobe is built on BrainTreebank, a large intracranial recording dataset with about 40 hours of recordings from 10 subjects watching naturalistic stimuli.
+This repo is my working area for experiments on the Neuroprobe benchmark, built on the BrainTreebank intracranial EEG dataset (~40 hours, 10 subjects, naturalistic stimuli). The focus is cross‑subject decoding with clean, reproducible training pipelines and model ideas that can generalize across brains and electrode layouts.
 
 ## Goal
 
