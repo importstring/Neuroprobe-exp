@@ -1,6 +1,8 @@
 # Neuroprobe‑exp – Cross‑Subject iEEG Benchmark Experiments
 
-This repo is my working area for experiments on the Neuroprobe benchmark, built on the BrainTreebank intracranial EEG dataset (~40 hours, 10 subjects, naturalistic stimuli). The focus is cross‑subject decoding with clean, reproducible training pipelines and model ideas that can generalize across brains and electrode layouts.
+This repo is my working area for experiments on the Neuroprobe benchmark, built on the BrainTreebank intracranial EEG dataset (~40 hours, 10 subjects, naturalistic stimuli). The focus is cross‑subject decoding with clean, reproducible training pipelines and model ideas that can generalize across brains and electrode layouts. Current week 2 numbers can be found in `outputs` take for example this validation AUROC by task by epoch graph.
+
+![Validation AUROC by task](output/val_auroc_by_task.png)
 
 ## Goal
 
